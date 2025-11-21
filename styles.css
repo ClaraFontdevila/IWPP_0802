@@ -1,1 +1,36 @@
 /* css styles */
+
+.blue-text {
+  color: #177aab !important; 
+}
+
+.tight-h3-spacing {
+  
+  margin-top: 5px !important; 
+  
+
+
+.nav-tabs .nav-link {
+  color: black;
+}
+
+
+.nav-tabs .nav-link.active {
+  color: black !important; 
+}
+
+
+.nav-tabs .nav-link:hover {
+  color: black; 
+}
+
+.tab-content * {
+  color: #333; 
+}
+
+.tab-content p {
+  color: #333;
+}
+.fancy-email {
+  color: #177aab; 
+}

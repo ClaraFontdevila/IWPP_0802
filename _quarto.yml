@@ -4,19 +4,17 @@ project:
 
 website:
   title: "IWPP_0802"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+  navbar: false
+    
 format:
   html:
     theme:
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false
+    link-citations: false
+    anchor-sections: false
 
 editor: visual
 
