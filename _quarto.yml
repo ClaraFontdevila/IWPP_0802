@@ -5,7 +5,7 @@ project:
 website:
   title: "IWPP_0802"
   navbar: false
-  image: "http://clarafontdevila.github.io/IWPP_0802/logo_iwpp.png" 
+  image: "http://clarafontdevila.github.io/IWPP_0802/IWPP26_Preview.png" 
   open-graph: true
     
 format:
