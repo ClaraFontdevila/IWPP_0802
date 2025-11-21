@@ -5,6 +5,19 @@ project:
 website:
   title: "IWPP_0802"
   navbar: false
+  
+open-graph:
+    image: "https://clarafontdevila.github.io/IWPP_0802/images/IWPP26_Preview.png"
+    title: ""        
+    description: ""  
+    url: "https://clarafontdevila.github.io/IWPP_0802/"
+    
+twitter:           
+    card: summary_large_image
+    image: "https://clarafontdevila.github.io/IWPP_0802/images/IWPP26_Preview.png"
+    title: ""        
+    description: ""  
+    url: "https://clarafontdevila.github.io/IWPP_0802/"
     
 format:
   html:
@@ -17,4 +30,3 @@ format:
     anchor-sections: false
 
 editor: visual
-

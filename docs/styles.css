@@ -34,3 +34,8 @@
 .fancy-email {
   color: #177aab; 
 }
+.container {
+    max-width: 90% !important; 
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
