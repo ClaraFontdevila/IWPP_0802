@@ -14,6 +14,11 @@ format:
     css: "styles.css"
 ---
 
+<style>
+  #title-block-header { display: none; }  /* Hides the empty title space */
+  #quarto-content { margin-top: 0; padding-top: 0; } /* Removes top page padding */
+</style>
+
 #### **International Workshops on Public Policy**
 
 6-8 July 2026, Ottawa · International Public Policy Association
