@@ -9,7 +9,7 @@ website:
   image: "IWPP26_Preview.png" 
   open-graph: true
   twitter-card:
-    image: "IWPP26_Preview.png"
+    image: "IWPP26_PreviewTwitter.png"
     card-style: summary_large_image
     
 format:
