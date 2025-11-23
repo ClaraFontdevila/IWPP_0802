@@ -3,21 +3,15 @@ title: ""
 format: 
   html:
       page-layout: full
-      css: ·"styles.css"
+      css: "styles.css"
 ---
 
----
-title: ""
-format: 
-  html:
-    page-layout: full
-    css: "styles.css"
----
-
+```{=html}
 <style>
   #title-block-header { display: none; }  /* Hides the empty title space */
   #quarto-content { margin-top: 0; padding-top: 0; } /* Removes top page padding */
 </style>
+```
 
 #### **International Workshops on Public Policy**
 
@@ -27,7 +21,7 @@ format:
 
 ### Section 2: The governance of education quasi-markets. Policy tensions and regulatory challenges {.tight-h3-spacing .blue-text}
 
-::: panel-tabset
+:::: panel-tabset
 ## **Call for papers**
 
 Across a growing number of countries, education services are delivered through quasi-market arrangements where public and private subsidised provision coexist and user choice plays a central role. In some contexts, mixed-provision schemes can be traced back to the creation of modern education systems, as the establishment of public systems of schooling did not necessarily entail the dismantling of private provision but often gave rise to some form of subsidisation (Ansell & Lindvall, 2021). In other countries, private subsidised enrolment has expanded considerably over the last decades in light of contemporary policy developments – most notably, the advent of market reforms. The expansion of user choice is a more recent but equally widespread phenomenon. Paralleling a decline in the role of residence in student-allocation processes, school-choice opportunities for parents have tended to increase, with most education systems allowing today for some degree of freedom of school choice (Musset, 2012; OECD, 2019).
@@ -36,44 +30,65 @@ Yet, despite the entrenched nature of education quasi-markets, recent years have
 
 This workshop is concerned with the tensions inherent in the coexistence of competing demands and expectations within contemporary education quasi-markets, particularly regarding the interplay between public and private forms of provision and spheres of interest. It builds on the premise that such diversity of expectations fundamentally constitutes a public policy challenge requiring an understanding of the varied origins of education quasi-market arrangements and the policy instruments underpinning them, as well as of the policy design choices through which different actors seek to govern and reform existing configurations. Accordingly, the workshop aims at facilitating a discussion along four venues of inquiry:
 
-* _What are the conceptualisation and operationalisation challenges posed by the public and private provision categories in education?_ Particular attention will be given to how different definitions and measurements help capture and interpret the tensions posed by contemporary education quasi-markets.
+-   *What are the conceptualisation and operationalisation challenges posed by the public and private provision categories in education?* Particular attention will be given to how different definitions and measurements help capture and interpret the tensions posed by contemporary education quasi-markets.
 
-* _How do mixed provision and school choice arrangements vary across contexts and over time, and what specific governance challenges stem from such different policy configurations?_ The workshop will examine the policy dilemmas associated with different institutional settlements between providers, families, and governments.
+-   *How do mixed provision and school choice arrangements vary across contexts and over time, and what specific governance challenges stem from such different policy configurations?* The workshop will examine the policy dilemmas associated with different institutional settlements between providers, families, and governments.
 
-* _What regulatory approaches and policy instruments are used in different contexts to address emerging policy challenges?_ The workshop will pay particular attention to agenda-setting, policy formulation and policy implementation processes, examining how such dynamics shape the outcomes and impacts of different policy choices.
+-   *What regulatory approaches and policy instruments are used in different contexts to address emerging policy challenges?* The workshop will pay particular attention to agenda-setting, policy formulation and policy implementation processes, examining how such dynamics shape the outcomes and impacts of different policy choices.
 
-* _What values and political rationales underpin current policy debates around private provision and choice in education?_ The workshop will address how competing notions of social justice are negotiated in ongoing policy processes, and how such normative considerations influence the legitimacy and impact of reforms.
+-   *What values and political rationales underpin current policy debates around private provision and choice in education?* The workshop will address how competing notions of social justice are negotiated in ongoing policy processes, and how such normative considerations influence the legitimacy and impact of reforms.
 
 The workshop aims at stimulating a debate on the challenges posed by the study of education quasi-markets from a public policy perspective, bringing together researchers working across various contexts and stages of the policy cycle. We invite conceptual, empirical and methodological contributions. Empirical papers employing quantitative, qualitative or mixed-method approaches are welcome, including case studies and comparative analyses.
 
 **Listed references**
 
-Ansell, B.W., & Lindvall, J. (2021). _Inward Conquest: The Political Origins of Modern Public Services_. Cambridge University Press.
+Ansell, B.W., & Lindvall, J. (2021). *Inward Conquest: The Political Origins of Modern Public Services*. Cambridge University Press.
 
-Musset, P. (2012). _School Choice and Equity: Current Policies in OECD Countries and a Literature Review_. OECD Publishing.
+Musset, P. (2012). *School Choice and Equity: Current Policies in OECD Countries and a Literature Review*. OECD Publishing.
 
-OECD. (2019). Balancing School Choice and Equity: An International Perspective Based on PISA_. OECD Publishing.
+OECD. (2019). Balancing School Choice and Equity: An International Perspective Based on PISA\_. OECD Publishing.
 
-Zancajo, A., Fontdevila, C., & Verger, A. (2023). Markets in Education and School Segregation: Paths of Problematization and Reform. In V. Dupriez et al. (Eds.), _Educational Markets and Segregation_ (pp. 81-101). Springer.
+Zancajo, A., Fontdevila, C., & Verger, A. (2023). Markets in Education and School Segregation: Paths of Problematization and Reform. In V. Dupriez et al. (Eds.), *Educational Markets and Segregation* (pp. 81-101). Springer.
 
 ## **Submission**
 
 To submit a paper, please follow these steps:
 
-* 1. [Create](https://www.ippapublicpolicy.org/create-account) an IPPA account if you haven't done so previously (or [log in](https://www.ippapublicpolicy.org/login) to your existing account).
-* 2. Go to the [workshop page](https://www.ippapublicpolicy.org/conference/iwpp5-ottawa-2026/panel-list/25/panel/education-policy-navigating-new-challenges-and-demands/1947) and click on "submit a paper for this workshop".
+-   
+
+    1.  [Create](https://www.ippapublicpolicy.org/create-account) an IPPA account if you haven't done so previously (or [log in](https://www.ippapublicpolicy.org/login) to your existing account).
+
+-   
+
+    2.  Go to the [workshop page](https://www.ippapublicpolicy.org/conference/iwpp5-ottawa-2026/panel-list/25/panel/education-policy-navigating-new-challenges-and-demands/1947) and click on "submit a paper for this workshop".
 
 Abstracts to be submitted by **20 January 2026**.
 
-Please note that this section of the workshop is _fully on-site_.
+Please note that this section of the workshop is *fully on-site*.
 
 ## **Contact**
-<p class="contact-instruction">Please do not hesitate to get in touch with the section chairs for any questions or doubts:</p>
-<div class="contact-line"> Clara Fontdevila - <span class="fancy-email">Clara.Fontdevila@uab.cat</span></div>
 
-Adrián Zancajo - <span class="fancy-email">Adrian.Zancajo@uab.cat</span>
+<p class="contact-instruction">
 
-## **On the IWPP 2026 **
-Please consult the [IWPP 2026 website](https://www.ippapublicpolicy.org/conference/iwpp5-ottawa-2026) for more information about the conference, including important dates, registration fees and the full list of workshops.
+Please do not hesitate to get in touch with the section organisers for any questions or doubts:
 
+</p>
+
+::: contact-line
+Clara Fontdevila - [[Clara.Fontdevila\@uab.cat](mailto:Clara.Fontdevila@uab.cat)]{.fancy-email}
 :::
+
+Adrián Zancajo - [[Adrian.Zancajo\@uab.cat](mailto:Adrian.Zancajo@uab.cat)]{.fancy-email}
+
+## **On IWPP 2026**
+
+Please consult the [IWPP 2026 website](https://www.ippapublicpolicy.org/conference/iwpp5-ottawa-2026/25) for more information about the conference, including important dates, registration fees and the full list of workshops.
+
+## **On the workshop**
+
+This section is organised in the context of **Workshop T0801: Education policy: navigating new challenges and demands**, chaired by Yusuf Sayed (University of Cambridge), Yifei Yan (University of Southampton), Clara Fontdevila (Universitat Autónoma de Barcelona) and Adrian Zancajo (Universitat Autónoma de Barcelona).
+
+The workshop is premised on the notion that the multiplicity of expectations placed on education systems often create tensions, exposing the limits of existing governance arrangements. Such tensions call for analytical attention as to the policy ideas and instruments through which education stakeholders mediate among different goals and address interrelated challenges – as well as on the impacts of such arrangements from a social justice and equity perspective. To this end, the workshop is organised into two separate sections, each examining such tensions from a different angle. The first section will address the policy challenges derived from the combination of crises affecting the education field; while the second section will focus on the governance and regulation of education quasi-markets.
+
+A detailed description of the workshop can be found in the [IWPP 2026 website](https://www.ippapublicpolicy.org/conference/iwpp5-ottawa-2026/panel-list/25/panel/education-policy-navigating-new-challenges-and-demands/1947).
+::::
